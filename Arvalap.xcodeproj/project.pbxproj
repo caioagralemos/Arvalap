@@ -11,6 +11,7 @@
 		25CC87DA2C3446D000D9DFC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25CC87D92C3446D000D9DFC0 /* ContentView.swift */; };
 		25CC87DC2C3446D100D9DFC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25CC87DB2C3446D100D9DFC0 /* Assets.xcassets */; };
 		25CC87E02C3446D100D9DFC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25CC87DF2C3446D100D9DFC0 /* Preview Assets.xcassets */; };
+		25CC87E72C348E1500D9DFC0 /* palavras.txt in Resources */ = {isa = PBXBuildFile; fileRef = 25CC87E62C348E1500D9DFC0 /* palavras.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		25CC87DB2C3446D100D9DFC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25CC87DD2C3446D100D9DFC0 /* Arvalap.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Arvalap.entitlements; sourceTree = "<group>"; };
 		25CC87DF2C3446D100D9DFC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		25CC87E62C348E1500D9DFC0 /* palavras.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = palavras.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				25CC87D72C3446D000D9DFC0 /* ArvalapApp.swift */,
 				25CC87D92C3446D000D9DFC0 /* ContentView.swift */,
 				25CC87DB2C3446D100D9DFC0 /* Assets.xcassets */,
+				25CC87E62C348E1500D9DFC0 /* palavras.txt */,
 				25CC87DD2C3446D100D9DFC0 /* Arvalap.entitlements */,
 				25CC87DE2C3446D100D9DFC0 /* Preview Content */,
 			);
@@ -129,6 +132,7 @@
 			files = (
 				25CC87E02C3446D100D9DFC0 /* Preview Assets.xcassets in Resources */,
 				25CC87DC2C3446D100D9DFC0 /* Assets.xcassets in Resources */,
+				25CC87E72C348E1500D9DFC0 /* palavras.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
